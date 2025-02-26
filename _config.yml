@@ -1,9 +1,6 @@
 remote_theme: pages-themes/tactile@v0.2.0
 
-title: Steve Simpson's Personal Web Site
-# description: This site is to share a little bit about myself.
-show_downloads: true
-# google_analytics: [Your Google Analytics tracking ID]
+show_downloads: false
 
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
