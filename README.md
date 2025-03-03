@@ -1,6 +1,6 @@
 # Get to know me
 
-Please take a look at [my Linked In page](https://www.linkedin.com/in/steve-simpson-227a7737)
+Please take a look at [my Linked In page](https://www.linkedin.com/in/steve-simpson-red)
 
 Unfortunately, most of my work isn't public, but here are some of my personal projects that I've created:
 
