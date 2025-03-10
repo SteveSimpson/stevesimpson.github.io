@@ -10,7 +10,6 @@ A few fun highlights from career:
 * After that network management for Ship-to-Shore network connections
 * fast forward to my latest adventure in getting to take a deep dive into AWS and microservices at scale
 
-
 Personally, I enjoy being outdoors and working with my hands. 
 I love to take our RV to state parks and enjoy a nature hike.
 I also love seeing something built, there is nothing like feeling
