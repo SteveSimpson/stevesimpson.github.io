@@ -12,9 +12,9 @@ ideally, leveraging AI technologies to drive innovation and optimize efficiency.
 
 ## Other sources
 
-* [More About Me](pages/about.md)
+* [About Me](pages/about.md)
 * [My Values](pages/values.md)
-* [my Linked In page](https://www.linkedin.com/in/steve-simpson-red)
+* [Linked In](https://www.linkedin.com/in/steve-simpson-red)
 
 ## Public work
 
