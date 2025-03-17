@@ -10,11 +10,10 @@ solve problems both new and old with secure innovative solutions.
 I am seeking a challenging role in either security or software engineering, 
 ideally, leveraging AI technologies to drive innovation and optimize efficiency.
 
-## Other sources
+## Pages
 
 * [About Me](pages/about.md)
 * [My Values](pages/values.md)
-* [Linked In](https://www.linkedin.com/in/steve-simpson-red)
 
 ## Public work
 
