@@ -6,13 +6,8 @@ I am an engineer, a problem solver. I love learning new technologies
 and implementing. That said I have gotten my chance to work on many
 legacy environments as well. 
 
-I have started thinking about and working on 
-[my personnel values](values.md)
-and have refined them down to:
-
-* Do the Right Thing
-* Value People
-* Continuous Incremental Improvement
+As part of my persaonal growth I am trying to focus on my
+[my personnel values](values.md).
 
 ## Career
 
